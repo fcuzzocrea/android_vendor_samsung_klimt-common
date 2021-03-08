@@ -47,6 +47,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimt-common/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin \
     vendor/samsung/klimt-common/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/klimt-common/proprietary/vendor/bin/vcsFPService:$(TARGET_COPY_OUT_VENDOR)/bin/vcsFPService \
+    vendor/samsung/klimt-common/proprietary/etc/PARAM.ini:$(TARGET_COPY_OUT_SYSTEM)/etc/PARAM.ini \
+    vendor/samsung/klimt-common/proprietary/etc/PDC.ini:$(TARGET_COPY_OUT_SYSTEM)/etc/PDC.ini \
     vendor/samsung/klimt-common/proprietary/etc/wifi/bcmdhd_apsta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/klimt-common/proprietary/etc/wifi/bcmdhd_ibss.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_ibss.bin \
     vendor/samsung/klimt-common/proprietary/etc/wifi/bcmdhd_mfg.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_mfg.bin \
